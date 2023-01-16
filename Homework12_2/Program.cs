@@ -6,7 +6,14 @@ namespace Homework12_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            /*Використовуючи Visual Studio, створіть 
+             * проект за шаблоном Console Application.
+             * Використовуючи конструктор діаграм класів DSL, створіть загальну
+             * діаграму класів для патерна MVP(Model - View - Presenter).
+             * */
+
+            Console.ReadKey();
         }
     }
 }
